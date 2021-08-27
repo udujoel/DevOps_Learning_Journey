@@ -1,4 +1,7 @@
 ---
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0e6197e0da7c4f5489a6cd3319adb0d6)](https://app.codacy.com/gh/udujoel/DevOps_Learning_Journey?utm_source=github.com&utm_medium=referral&utm_content=udujoel/DevOps_Learning_Journey&utm_campaign=Badge_Grade_Settings)
+
 title: 'DevOps Learning Journey'
 Author: Joell Udu (udujoel@Gmail.com)
 ---
