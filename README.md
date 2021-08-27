@@ -8,8 +8,20 @@ Interests
 
 [TOC]
 
-## Azure DevOps 
- - AKS, ACI 
+## Azure 
+ - Azure DevOps
+ - AKS 
+ - ACI 
+ - Azure Log Analytics
+ - Azure Monitor
+ - Azure Storage Accounts
+ - Azure API Management
+ - Azure PostgreSQL
+ - Azure Policies
+ - Azure Landing Zones
+ - Azure Management Groups
+ - Azure IaC 
+
 ## Kubernetes
 ## Docker
 ## Helm Charts 
@@ -38,3 +50,6 @@ Interests
 ## Crowd
 ## Cypress 
 ## Selenium
+## GitOps
+
+
